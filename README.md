@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm This is SeungHyun Ko, a developer who codes dreams.</h1>
 - 📫 How to reach me **kosh8348@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
